@@ -1,7 +1,3 @@
-Here’s a **fully styled GitHub README (English, PySpark-based)** for your second project 👇
-
----
-
 # 🎵 Music Clustering using PySpark & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
